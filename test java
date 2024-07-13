@@ -1,0 +1,11 @@
+class testjava {
+    public static void main(String args[]) {
+        System.out.println("sum of numbers is:");
+        int num1 = 3;
+        int num2 = 6;
+        int num3 = 8;
+        int num = num1 + num2 + num3;
+        System.out.println(sum);
+
+    }
+}
